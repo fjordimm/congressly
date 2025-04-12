@@ -25,3 +25,9 @@ To run:
 ```
 python3 backend/backend_main.py
 ```
+
+## Packages to install
+
+```
+pip install -q -U google-genai
+```
